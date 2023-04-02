@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91345791587",
+    "project_id": "rayza-d22d5",
+    "storage_bucket": "rayza-d22d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91345791587:android:96f669e41d90d5f9786656",
+        "android_client_info": {
+          "package_name": "com.deirvlon.rayza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91345791587-0jfds7dd2pl6plpv0397ef6fnd205g7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuc2Yo1Xvd9iVAcNPszEtuw6RZNm7MHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91345791587-0jfds7dd2pl6plpv0397ef6fnd205g7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
